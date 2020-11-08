@@ -1,0 +1,81 @@
+#menu{
+    background-color: #132640 !important;
+
+}
+
+#menu a, i{
+    color: white !important;
+}
+#image img{
+    width: 500px !important;
+    margin-top: 35px;
+}
+
+#image h2{
+    text-align: center;
+}
+
+#image p{
+    text-align:justify;
+    font-size: 20px;
+
+}
+
+#texto-image{
+    margin-top: 70px;
+    
+}
+#sobre{
+    margin-top: 100px;
+}
+
+hr{
+    background-color: #1F8F89;
+    border: 2px solid #1F8F89!important;
+    width: 60px !important;
+    margin:0;
+}
+
+#texto-sobre{
+    margin-top: 25px;
+}
+#sobre-section{
+    padding: 70px;
+}
+
+#sobre-section p{
+    font-size: 20px;
+    text-align: center;
+}
+#atividades{
+    margin-top: 100px;
+}
+
+#atividades img{
+    margin-top: 40px;
+}
+
+#atividades p{
+    margin-top: 20px;
+    font-size: 17px;
+}
+#texto-form{
+    margin-top: 25px;
+}
+#formulario hr{
+    margin-top: 100px;
+}
+
+#formulario form{
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+#rodape .footer{
+    height: 90px;
+    background-color: #133440;
+}
+#rodape p{
+    font-size: 17px;
+    text-align: center;
+}
